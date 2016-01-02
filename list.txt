@@ -2,7 +2,7 @@
     "vehiculos": [
         {
             "licensePlate": "EJB4018",
-            "description": "mazda 2015"
+            "description": "Mazda 2015"
         },
         {
             "licensePlate": "EFK6318",
