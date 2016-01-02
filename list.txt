@@ -1,0 +1,2 @@
+placa1, auto1
+placa2, auto2
