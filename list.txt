@@ -1,2 +1,12 @@
-placa1, auto1
-placa2, auto2
+{
+    "vehiculos": [
+        {
+            "licensePlate": "EJB4018",
+            "description": "mazda 2015"
+        },
+        {
+            "licensePlate": "EFK6318",
+            "description": "Lancer Brenda"
+        }
+    ]
+}
